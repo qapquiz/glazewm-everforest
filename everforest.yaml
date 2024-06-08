@@ -1,3 +1,4 @@
+#################### everforest colors #######################
 # background 
 # hard
 charcoal: &charcoal "#1E2326"
@@ -52,3 +53,4 @@ yellow_green: &yellow_green "#A7C080"
 light_green: &light_green "#83C092"
 light_sea_green: &light_sea_green "#7FBBB3"
 orchid: &orchid "#D699B6"
+#################### everforest colors #######################
