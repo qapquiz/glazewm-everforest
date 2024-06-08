@@ -1,0 +1,55 @@
+[background]
+hard:
+  charcoal: &charcoal "#1E2326"
+  gunmetal: &gunmetal "#272E33"
+  dark_slate_gray: &dark_slate_gray "#2E383C"
+  jet: &jet "#374145"
+  outer_space: &outer_space "#414B50"
+  davys_grey: &davys_grey "#495156"
+  feldgrau: &feldgrau "#4F5B58"
+  dark_puce: &dark_puce "#4C3743"
+  dark_liver: &dark_liver "#493B40"
+  feldgrau_variant: &feldgrau_variant "#3C4841"
+  outer_space_variant: &outer_space_variant "#384B55"
+  olive_drab: &olive_drab "#45443C"
+
+medium:
+  charcoal_variant: &charcoal_variant "#232A2E"
+  gunmetal_variant: &gunmetal_variant "#2D353B"
+  dark_slate_gray_variant: &dark_slate_gray_variant "#343F44"
+  jet_variant: &jet_variant "#3D484D"
+  outer_space_variant2: &outer_space_variant2 "#475258"
+  davys_grey_variant: &davys_grey_variant "#4F585E"
+  feldgrau_variant2: &feldgrau_variant2 "#56635F"
+  dark_puce_variant: &dark_puce_variant "#543A48"
+  dark_liver_variant: &dark_liver_variant "#514045"
+  feldgrau_variant3: &feldgrau_variant3 "#425047"
+  outer_space_variant3: &outer_space_variant3 "#3A515D"
+  olive_drab_variant: &olive_drab_variant "#4D4C43"
+
+low:
+  charcoal_variant2: &charcoal_variant2 "#293136"
+  gunmetal_variant2: &gunmetal_variant2 "#333C43"
+  dark_slate_gray_variant2: &dark_slate_gray_variant2 "#3A464C"
+  jet_variant2: &jet_variant2 "#434F55"
+  outer_space_variant4: &outer_space_variant4 "#4D5960"
+  davys_grey_variant2: &davys_grey_variant2 "#555F66"
+  feldgrau_variant4: &feldgrau_variant4 "#5D6B66"
+  dark_puce_variant2: &dark_puce_variant2 "#5C3F4F"
+  dark_liver_variant2: &dark_liver_variant2 "#59464C"
+  feldgrau_variant5: &feldgrau_variant5 "#48584E"
+  outer_space_variant5: &outer_space_variant5 "#3F5865"
+  olive_drab_variant2: &olive_drab_variant2 "#55544A"
+
+[foreground]
+default:
+  sand: &sand "#D3C6AA"
+
+accents:
+  coral: &coral "#E67E80"
+  salmon: &salmon "#E69875"
+  pale_goldenrod: &pale_goldenrod "#DBBC7F"
+  yellow_green: &yellow_green "#A7C080"
+  light_green: &light_green "#83C092"
+  light_sea_green: &light_sea_green "#7FBBB3"
+  orchid: &orchid "#D699B6"
