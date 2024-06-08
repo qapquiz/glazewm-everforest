@@ -18,6 +18,8 @@ foreground: *fg
 ```
 3. save `config.yaml` and reload GlazeWM `shift+alt+r`
 
+[See example config.yaml](example-config.yaml)
+
 ## Thanks to
 - [sainnhe/everforest](https://github.com/sainnhe/everforest?tab=readme-ov-file)
 - [catppuccin/glazewm](https://github.com/catppuccin/glazewm/blob/main/README.md?plain=1)
