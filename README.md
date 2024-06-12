@@ -3,10 +3,7 @@
 </h3>
 
 ## Previews
-<details>
-<summary>Soft</summary>
 <img src="https://github.com/qapquiz/glazewm-everforest/assets/1768460/3702b68f-84f2-4198-98e8-98d4fa41e0a6"/>
-</details>
 
 ## Usage
 1. copy `soft.yaml` to `C:\Users\yourusername\.glaze-wm\config.yaml`
